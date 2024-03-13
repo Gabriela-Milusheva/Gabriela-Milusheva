@@ -20,7 +20,7 @@
 </p>
 
 # 🌌 About Me:
-<img align="right" alt="Coding" width="300" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_a9c8d800ea5a68d90296993c181db56d_ae17754c_540-ezgif.com-webp-to-gif-converter.gif" > 
+<img align="right" alt="Coding" width="400" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_a9c8d800ea5a68d90296993c181db56d_ae17754c_540-ezgif.com-webp-to-gif-converter.gif" > 
 
 - 🎓 I'm a **computer science** student at **TU Sofia**.
 - 👩🏻‍💻 I'm currently working on several **web applications**.
