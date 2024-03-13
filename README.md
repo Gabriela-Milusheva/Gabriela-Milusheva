@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning **Web Development**.
 - 🚀 I’m looking to collaborate on projects. Every project is an opportunity to learn.
 - 📫  Get in touch via email at *gabriella.milusheva@gmail.com*
-- 💼 Let's connect on *[LinkedIn](https://www.linkedin.com/in/gabriela-milusheva-2836bb243/)*!
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/gabriela-milusheva-2836bb243/)!
 
 <br>
 <br>
