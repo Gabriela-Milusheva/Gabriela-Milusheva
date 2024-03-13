@@ -20,7 +20,7 @@
 </p>
 
 # 🌌 About Me:
-<img align="right" alt="Coding" width="280" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_a9c8d800ea5a68d90296993c181db56d_ae17754c_540-ezgif.com-webp-to-gif-converter.gif" > 
+<img align="right" alt="Coding" width="300" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_a9c8d800ea5a68d90296993c181db56d_ae17754c_540-ezgif.com-webp-to-gif-converter.gif" > 
 
 - 🎓 I'm a **computer science** student at **TU Sofia**.
 - 👩🏻‍💻 I'm currently working on several **web applications**.
@@ -29,8 +29,11 @@
 - 📫  Get in touch via email at *gabriella.milusheva@gmail.com*
 - 💼 Let's connect on *[LinkedIn][1]*!
 
+<br>
+<br>
 
 # 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
