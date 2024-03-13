@@ -29,7 +29,7 @@
 
 <br>
 
-## 💻 University Projects
+# 🚀 University Projects
 * [Logical Expression Interpreter](https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA)
 * [ Graphic Design Application](https://github.com/Gabriela-Milusheva/GraphicApplication_OOP)
 
