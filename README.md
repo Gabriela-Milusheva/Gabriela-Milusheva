@@ -25,10 +25,14 @@
 - 🌱 I’m currently learning **Web Development**.
 - 🚀 I’m looking to collaborate on projects. Every project is an opportunity to learn.
 - 📫  Get in touch via email at *gabriella.milusheva@gmail.com*
-- 💼 Let's connect on *[LinkedIn][1]*!
+- 💼 Let's connect on *[LinkedIn](https://www.linkedin.com/in/gabriela-milusheva-2836bb243/)*!
 
 <br>
-<br>
+
+## 💻 University Projects
+* [Logical Expression Interpreter](https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA)
+* [ Graphic Design Application](https://github.com/Gabriela-Milusheva/GraphicApplication_OOP)
+
 
 # 💻 Tech Stack:
 
@@ -44,18 +48,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-[0]: https://github.com/Gabriela-Milusheva
-[1]: https://www.linkedin.com/in/gabriela-milusheva-2836bb243/
-
-<!-- Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
