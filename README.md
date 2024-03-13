@@ -28,10 +28,12 @@
 - 💼 Let's connect on *[LinkedIn](https://www.linkedin.com/in/gabriela-milusheva-2836bb243/)*!
 
 <br>
+<br>
 
 # 🚀 University Projects
-* [Logical Expression Interpreter](https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA)
+
 * [ Graphic Design Application](https://github.com/Gabriela-Milusheva/GraphicApplication_OOP)
+* [Logical Expression Interpreter](https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA)
 
 
 # 💻 Tech Stack:
