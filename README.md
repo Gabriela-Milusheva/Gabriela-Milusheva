@@ -18,7 +18,7 @@
 </p>
 
 # 🌌 About Me:
-<img align="right" alt="Coding" width="300" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/gif.gif" > 
+<img align="right" alt="Coding" width="370" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/gif.gif" > 
 
 - 🎓 I'm a **computer science** student at **TU Sofia**.
 - 👩🏻‍💻 I'm currently working on several **web applications**.
@@ -28,12 +28,14 @@
 - 💼 Let's connect on *[LinkedIn](https://www.linkedin.com/in/gabriela-milusheva-2836bb243/)*!
 
 <br>
+<br>
 
 # 🚀 University Projects
 
 * [ Graphic Design Application](https://github.com/Gabriela-Milusheva/GraphicApplication_OOP)
 * [Logical Expression Interpreter](https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA)
 
+<br>
 
 # 💻 Tech Stack:
 
