@@ -1,4 +1,5 @@
  [![GitHub Views](https://komarev.com/ghpvc/?username=Gabriela-Milusheva9&color=blue)][0]
+
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <br>
 <br>
@@ -19,21 +20,25 @@
 </p>
 
 <p align="center" >
-  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" height=400 />
+  <img src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376" height=600 />
 </p>
 
-  
+<p align="center" >
+  <img src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_a9c8d800ea5a68d90296993c181db56d_ae17754c_540-ezgif.com-webp-to-gif-converter.gif" height=600 />
+</p>
 
-Here are some ideas to get you started:
+ 
+# 🌌 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+<img align="right" alt="Coding" width="300" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_a9c8d800ea5a68d90296993c181db56d_ae17754c_540-ezgif.com-webp-to-gif-converter.gif" > 
 
-# 📬 Get in touch
+- 🎓 I'm a **computer science** student at **TU Sofia**.
+- 👩🏻‍💻 I'm currently working on several **web applications**.
+- 🌱 I’m currently learning **Web Development**.
+- 🚀 I’m looking to collaborate on projects. Every project is an opportunity to learn.
+- 📫  Get in touch via email at *gabriella.milusheva@gmail.com*
+- 💼 Let's connect on *[LinkedIn][1]*!
 
-<!-- - Web: [dmilusheva.me][1] -->
-- LinkedIn: [https://www.linkedin.com/in/gabriela-milusheva][1]
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,6 +53,10 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  <p align="center" >
+  <img src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/tumblr_3772051fda1339bf3bfe9a94036ece31_65149bd6_540-ezgif.com-webp-to-gif-converter.gif" height=500 />
+</p>
 
 ## &#x1f4c8; My GitHub Stats
 [0]: https://github.com/Gabriela-Milusheva
