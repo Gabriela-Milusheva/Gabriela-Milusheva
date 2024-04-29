@@ -28,7 +28,7 @@
 
 # 🚀 University Projects:
 
-* [ Graphic Design Application](https://github.com/Gabriela-Milusheva/GraphicApplication_OOP)
+* [Graphic Design Application](https://github.com/Gabriela-Milusheva/GraphicApplication_OOP)
 * [Logical Expression Interpreter](https://github.com/Gabriela-Milusheva/LogicalExpressionInterpreter_SAA)
 
 <br>
