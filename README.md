@@ -4,9 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
-# 🌌 About Me:
 <img align="center" alt="Coding" width="370" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/gif.gif" > 
 
+# 🌌 About Me:
 <br>
 
 - 🎓 I'm a **computer science** student at **TU Sofia**.
