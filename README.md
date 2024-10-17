@@ -5,7 +5,9 @@
 </p>
 
 # 🌌 About Me:
-<img align="right" alt="Coding" width="370" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/gif.gif" > 
+<img align="center" alt="Coding" width="370" src="https://github.com/Gabriela-Milusheva/Gabriela-Milusheva/blob/main/gif.gif" > 
+
+<br>
 
 - 🎓 I'm a **computer science** student at **TU Sofia**.
 - 👩🏻‍💻 I'm currently working on several **web applications**.
